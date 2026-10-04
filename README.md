@@ -1,16 +1,25 @@
-## Hi there 👋
+Antonis (Anthony) Psarras
 
-<!--
-**AntonisPsarras/AntonisPsarras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Greek high-school student in Thessaloniki, building software and hardware, aiming at physics and engineering at university.
 
-Here are some ideas to get you started:
+Outside school, I am driven by turning an idea into something useful, from the first design to a working product. I started with a 3D printer and product design, then learned Python, PCB design, and soldering so I could connect software to microcontrollers and sensors rather than starting from Arduino boards. I have awards in national-level mathematics and physics competitions, and I study theoretical physics — especially quantum computing — which I hope to pursue at university.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+ScholiLink — A Flutter student platform with Firebase auth, server-side Gemini, and Greek-first tools for schedule, homework, grades, and classroom chat. GitHub
+
+
+
+Aether Gravity — A real-time N-body space simulator in React, TypeScript, and Three.js, with GPU particles, Kerr-type black holes, and a universe sandbox. GitHub · Live
+
+
+
+Guardian System — A household RFID entry and presence build: two printed ESP32 readers, Home Assistant, ESPHome, and camera-driven alerts. GitHub
+
+
+
+Wind Turbine System — A 3D-printed balcony turbine with yaw tracking, Schottky rectification, and TP4056 charging for an 18650 cell. MakerWorld
+
+Portfolio: https://antonispsarras.github.io/ 
